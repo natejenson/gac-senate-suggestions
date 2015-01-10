@@ -48,7 +48,7 @@
 		<div class="panel-body">
 
 			<div class="alert alert-success" role="alert">Thank you! Your
-				suggestion has successfully been submitted. Feel free to <a href="${pageContext.request.contextPath}/suggestions">submit another</a>.</div>
+				suggestion has successfully been submitted. Feel free to <a href="/suggestions">submit another</a>.</div>
 		</div>
 	</div>
 
