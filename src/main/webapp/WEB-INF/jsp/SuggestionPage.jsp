@@ -32,7 +32,7 @@
 			</div>
 
 			<!--/.nav-collapse -->
-			<form class="navbar-form navbar-right" action="${pageContext.request.contextPath}/suggestions/admin"
+			<form class="navbar-form navbar-right" action="/suggestions/admin"
 				role="search">
 				<button type="submit" class="btn btn-default">Admin Login</button>
 			</form>
