@@ -8,7 +8,7 @@
 <!-- Bootstrap CSS-->
 <link href="/resources/css/bootstrap.min.css" rel="stylesheet">
 <!-- Custom CSS -->
-<link href="${pageContext.request.contextPath}/resources/css/404.css" rel="stylesheet">
+<link href="/resources/css/404.css" rel="stylesheet">
 </head>
 <div class="container">
     <div class="row">
