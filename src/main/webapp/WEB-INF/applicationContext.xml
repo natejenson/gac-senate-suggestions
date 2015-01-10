@@ -18,6 +18,7 @@
     
     <mvc:resources mapping="/resources/**" location="/resources/" />
 	<mvc:annotation-driven />
+	<mvc:view-controller path="/" view-name="SuggestionPage"/>
 
     <tx:annotation-driven />
     <bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager">
