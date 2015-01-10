@@ -33,7 +33,7 @@
 
 			<!--/.nav-collapse -->
 			<form class="navbar-form navbar-right"
-				action="${pageContext.request.contextPath}/j_spring_security_logout" method="POST"> 
+				action="/j_spring_security_logout" method="POST"> 
 				<button type="submit" class="btn btn-default">Logout</button>
 			</form>
 		</div>

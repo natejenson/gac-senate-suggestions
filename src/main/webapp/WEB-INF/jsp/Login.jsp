@@ -34,7 +34,7 @@
 
 	<div class="container">
 
-		<form class="form-signin" action="${pageContext.request.contextPath}/j_spring_security_check" method="POST">
+		<form class="form-signin" action="/j_spring_security_check" method="POST">
 			<h2 class="form-signin-heading">Please sign in</h2>
 			<label for="inputEmail" class="sr-only">Email address</label> <input
 				type="email" id="inputEmail" name="j_username" class="form-control"
@@ -51,5 +51,5 @@
 	<!-- JQuery -->
 	<script
 		src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="resources/js/bootstrap.min.js"></script>
+	<script src="/resources/js/bootstrap.min.js"></script>
 	</body>
