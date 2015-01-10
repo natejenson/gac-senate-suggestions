@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Whoa!</title>
 <!-- Bootstrap CSS-->
-<link href="${pageContext.request.contextPath}/resources/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/css/bootstrap.min.css" rel="stylesheet">
 <!-- Custom CSS -->
 <link href="${pageContext.request.contextPath}/resources/css/404.css" rel="stylesheet">
 </head>
@@ -21,7 +21,7 @@
                     Sorry, an error has occurred, Requested page not found!
                 </div>
                 <div class="error-actions">
-                    <a href="${pageContext.request.contextPath}/suggestions" class="btn btn-primary btn-lg">
+                    <a href="/suggestions" class="btn btn-primary btn-lg">
                         Take Me Home </a>
                 </div>
             </div>

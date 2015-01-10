@@ -9,9 +9,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 <!-- Bootstrap CSS-->
-<link href="${pageContext.request.contextPath}/resources/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/css/bootstrap.min.css" rel="stylesheet">
 <!-- Custom CSS -->
-<link href="${pageContext.request.contextPath}/resources/css/signin.css" rel="stylesheet">
+<link href="/resources/css/signin.css" rel="stylesheet">
 
 <meta name="viewport" content="width=device-width" />
 </head>
