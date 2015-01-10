@@ -47,7 +47,7 @@
 	<div id="suggestionForm" class="panel panel-info">
 		<div class="panel-heading">Suggestion Form</div>
 		<div class="panel-body">
-			<form action="$/suggestions" method="post">
+			<form action="/suggestions" method="post">
 				<input type="hidden" id="areaHiddenField" name="area"
 					value="Area of Concern" />
 				<div class="dropdown">

@@ -29,9 +29,9 @@ public class SuggestionController {
 	
 	@RequestMapping(value="", method = RequestMethod.POST)
 	public String addSuggestion(@RequestParam("area") String area, @RequestParam("email") String email, @RequestParam("comment") String comment){
-		return "redirect:/suggestionSuccess";
+		return "redirect:/suggestions/success";
 	}
-	@RequestMapping(value="/suggestionSuccess", method = RequestMethod.GET)
+	@RequestMapping(value="/success", method = RequestMethod.GET)
 	public ModelAndView viewSuggestionSuccess(){
 		ModelAndView model = new ModelAndView("SuggestionSuccess");
 

@@ -9,9 +9,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 <!-- Bootstrap CSS-->
-<link href="resources/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/css/bootstrap.min.css" rel="stylesheet">
 <!-- Custom CSS -->
-<link href="resources/css/main.css" rel="stylesheet">
+<link href="/resources/css/main.css" rel="stylesheet">
 
 <meta name="viewport" content="width=device-width" />
 </head>
@@ -55,8 +55,8 @@
 	<!-- JQuery -->
 	<script
 		src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="resources/js/bootstrap.min.js"></script>
+	<script src="/resources/js/bootstrap.min.js"></script>
 	<!-- Custom JS -->
-	<script src="resources/js/main.js"></script>
+	<script src="/resources/js/main.js"></script>
 </body>
 </html>
